@@ -1,10 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 490 140" font-family="Poppins, sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 140">
   <path d="M 28,106 L 28,50 Q 28,20 52,20 Q 76,20 76,50 L 76,102"
         fill="none" stroke="#0ea5e9" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
   <path d="M 76,50 Q 76,20 100,20 Q 124,20 124,50 L 124,120"
         fill="none" stroke="#0ea5e9" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
   <circle cx="70" cy="70" r="56" fill="none" stroke="#f97316" stroke-width="10"/>
-  <text font-weight="700" font-size="56" y="88" x="155" font-family="Poppins, sans-serif">
-    <tspan fill="#ffffff">Made</tspan><tspan fill="#f97316">For</tspan><tspan fill="#ffffff">Me</tspan><tspan fill="#f97316">AI</tspan>
-  </text>
 </svg>
