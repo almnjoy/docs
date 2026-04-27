@@ -1,7 +1,7 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "name": "MadeForMeAI",
-  "theme": "venus",
+  "theme": "mint",
   "logo": {
     "light": "/Logos/mfmai-icon-dark.png",
     "dark": "/Logos/mfmai-icon-dark.png"
