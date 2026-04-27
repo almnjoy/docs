@@ -1,14 +1,16 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "name": "MadeForMeAI",
-  "theme": "almond",
+  "theme": "venus",
   "logo": {
-    "light": "https://media.brand.dev/89851bf3-d5ab-448a-b66d-918781d90e7a.png",
-    "dark": "https://media.brand.dev/89851bf3-d5ab-448a-b66d-918781d90e7a.png"
+    "light": "/Logos/mfmai-icon-dark.png",
+    "dark": "/Logos/mfmai-icon-dark.png"
   },
-  "favicon": "https://media.brand.dev/94fa2fb1-527a-4b2a-b00c-3f336a95418b.png",
+  "favicon": "/Logos/mfmai-icon-dark.png",
   "colors": {
-    "primary": "#3c1314"
+    "primary": "#6C63FF",
+    "light": "#A89CFF",
+    "dark": "#4B44CC"
   },
   "navbar": {
     "links": [
@@ -32,47 +34,23 @@
     "groups": [
       {
         "group": "Get Started",
-        "pages": [
-          "introduction",
-          "quickstart",
-          "getting-started/your-ai-url",
-          "getting-started/logging-in",
-          "getting-started/first-conversation"
-        ]
+        "pages": ["introduction", "quickstart", "faq"]
       },
       {
         "group": "Features",
-        "pages": [
-          "features/memory",
-          "features/file-uploads",
-          "features/web-search",
-          "features/email-calendar",
-          "features/model-picker"
-        ]
+        "pages": ["features/memory", "features/whatsapp"]
       },
       {
-        "group": "BYOK",
-        "pages": [
-          "byok/what-is-byok",
-          "byok/adding-your-key",
-          "byok/supported-providers"
-        ]
+        "group": "Your Account",
+        "pages": ["account/plans", "account/billing", "byok/setup"]
       },
       {
-        "group": "Account & Billing",
-        "pages": [
-          "account/managing-subscription",
-          "account/cancellation"
-        ]
+        "group": "Troubleshooting",
+        "pages": ["troubleshooting/common-issues"]
       },
       {
-        "group": "Help",
-        "pages": [
-          "troubleshooting/cant-log-in",
-          "troubleshooting/model-not-responding",
-          "troubleshooting/email-not-received",
-          "faq"
-        ]
+        "group": "Legal",
+        "pages": ["legal/privacy", "legal/terms"]
       }
     ]
   }
