@@ -12,12 +12,12 @@
   "topbarLinks": [
     {
       "name": "Discord",
-      "url": "https://discord.gg/madeformeai"
+      "url": "https://discord.gg/uEugVKA8PH"
     }
   ],
   "topbarCtaButton": {
     "name": "Get your AI",
-    "url": "https://madeformeai.com/signup"
+    "url": "https://madeformeai.com/early-access"
   },
   "navigation": [
     {
@@ -65,7 +65,7 @@
     }
   ],
   "footerSocials": {
-    "discord": "https://discord.gg/madeformeai"
+    "discord": "https://discord.gg/uEugVKA8PH"
   },
   "feedback": {
     "thumbsRating": true

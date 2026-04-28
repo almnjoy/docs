@@ -16,18 +16,18 @@
     "links": [
       {
         "label": "Discord",
-        "href": "https://discord.gg/madeformeai"
+        "href": "https://discord.gg/uEugVKA8PH"
       }
     ],
     "primary": {
       "type": "button",
       "label": "Get your AI",
-      "href": "https://madeformeai.com/signup"
+      "href": "https://madeformeai.com/early-access"
     }
   },
   "footer": {
     "socials": {
-      "discord": "https://discord.gg/madeformeai"
+      "discord": "https://discord.gg/uEugVKA8PH"
     }
   },
   "navigation": {
